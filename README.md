@@ -1,8 +1,26 @@
 ```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                      iiqu // dev                           ║
-║          automation · tools · competitive gaming           ║
-╚═══════════════════════════════════════════════════════════╝
+  iiii    iiii                                        
+ i::::i  i::::i                                       
+  iiii    iiii                                        
+                                                      
+iiiiiii iiiiiii    qqqqqqqqq   qqqqquuuuuu    uuuuuu  
+i:::::i i:::::i   q:::::::::qqq::::qu::::u    u::::u  
+ i::::i  i::::i  q:::::::::::::::::qu::::u    u::::u  
+ i::::i  i::::i q::::::qqqqq::::::qqu::::u    u::::u  
+ i::::i  i::::i q:::::q     q:::::q u::::u    u::::u  
+ i::::i  i::::i q:::::q     q:::::q u::::u    u::::u  
+ i::::i  i::::i q:::::q     q:::::q u::::u    u::::u  
+ i::::i  i::::i q::::::q    q:::::q u:::::uuuu:::::u  
+i::::::ii::::::iq:::::::qqqqq:::::q u:::::::::::::::uu
+i::::::ii::::::i q::::::::::::::::q  u:::::::::::::::u
+i::::::ii::::::i  qq::::::::::::::q   uu::::::::uu:::u
+iiiiiiiiiiiiiiii    qqqqqqqq::::::q     uuuuuuuu  uuuu
+                            q:::::q                   
+                            q:::::q                   
+                           q:::::::q                  
+                           q:::::::q                  
+                           q:::::::q                  
+                           qqqqqqqqq                  
 ```
 
 ## $ whoami
@@ -26,25 +44,31 @@ class Developer:
 
 ---
 
-### ⚡ Tech
+### ⚡ Tech Stack
 
-**Languages:** `Python` `JavaScript` `AutoHotkey` `PowerShell` `Lua`
-
-**Tools:** `Node.js` `Git` `Discord.js` `pandas`
-
-**OS:** `Windows` `macOS` `Linux`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=autohotkey&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ### 📦 Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[VLOCK](https://github.com/iiqu/VLOCK)** | VALORANT movement blocker for precise lineups | AutoHotkey v2 |
-| **[Ares-Cloner](https://github.com/iiqu/Ares-Cloner)** | Automated project template system | Python, Gmail API |
-| **[fake-giveaway-bot](https://github.com/iiqu/fake-giveaway-bot)** | Discord giveaway automation | Node.js, Discord.js |
-| **[fluent-u-script](https://github.com/iiqu/fluent-u-script)** | Language learning automation | Python |
-| **[plsdonate](https://github.com/iiqu/plsdonate)** | Donation bot automation | Lua |
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| **[VLOCK](https://github.com/iiqu/VLOCK)** | VALORANT movement blocker for precise lineups | AutoHotkey v2 | 🔒 Private |
+| **Ares-Cloner** | Automated project template system | Python, Gmail API | 🔒 Private |
+| **fake-giveaway-bot** | Discord giveaway automation | Node.js, Discord.js | 🔒 Private |
+| **fluent-u-script** | Language learning automation | Python | 🔒 Private |
+| **plsdonate** | Donation bot automation | Lua | 🔒 Private |
 
 ---
 
@@ -61,14 +85,13 @@ class Developer:
 
 > Open to collaboration on automation projects and gaming utilities.
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iiqu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iiqu)
 
 ---
 
 ```
 Last updated: October 2025
-Built with: Markdown + GitHub Actions
+Built with: Markdown
 ```
 
 <sub>⭐ Star repos if useful | 🐛 Report issues | 🤝 PRs welcome</sub>
