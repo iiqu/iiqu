@@ -115,11 +115,6 @@ class Developer:
 <td>Language learning automation and workflow optimization</td>
 <td><code>Python</code> <code>Selenium</code></td>
 </tr>
-<tr>
-<td><strong>plsdonate</strong> 🔒</td>
-<td>Roblox donation bot automation system</td>
-<td><code>Lua</code></td>
-</tr>
 </table>
 
 ---
